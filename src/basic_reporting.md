@@ -24,4 +24,4 @@ fava main.bean
 
 Thanks for following along. If you have scenarios you'd like to see covered,
 <A HREF="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%61%6E%64%72%65%77%40%61%6F%73%74%69%6C%2E%65%73">email me</A>.  
-Better yet, submit a pull request at <https://aostiles.github.io/beancount-guide>.
+Better yet, submit a pull request at <https://github.com/aostiles/beancount-guide>.
